@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me:
-- 🌱 Currently deepening my knowledge of **Data Structures and Algorithms**
+- 🌱 Currently deepening my knowledge of **System Design** and focusing on making software more **efficient and scalable**
 - 👯 Seeking to collaborate with **organizations as a software developer**
 - 💼 Experienced in **Java, Spring Boot, React, System Design, and SQL**
 - 😄 Pronouns: He/Him
