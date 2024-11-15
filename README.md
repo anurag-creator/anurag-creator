@@ -4,10 +4,10 @@
 ---
 
 ### 💫 About Me:
-- 🌱 Currently deepening my knowledge of **System Design** and focusing on making software more **efficient and scalable**
-- 👯 Seeking to collaborate with **organizations as a software developer**
-- 💼 Experienced in **Java, Spring Boot, React, System Design, and SQL**
-- 😄 Pronouns: He/Him
+- 🌱 Currently deepening my knowledge of **System Design** and focusing on making software more **efficient and scalable**  
+- 👯 Seeking to collaborate with **organizations as a software developer**  
+- 💼 Experienced in **Java, Spring Boot, React, System Design, and SQL**  
+- 😄 Pronouns: He/Him  
 
 ---
 
@@ -75,4 +75,16 @@
 
 ---
 
-Thanks for visiting my profile! 😊 If you're looking to collaborate on innovative projects or need a dedicated software developer, feel free to reach out.
+### 📞 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/anurag-creator/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/anuragsingh2751?t=hhEINdOT2wushHH1Rf9eDQ&s=09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (formerly Twitter)" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+Thanks for visiting my profile! 😊 If you're looking to collaborate on innovative projects or need a dedicated software developer, feel free to connect with me!
