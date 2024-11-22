@@ -68,7 +68,7 @@
 
 ---
 
-### 👨‍💻 Top Languages:
+### 👨‍💻 Top Languages :
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag-creator&theme=nord_dark" alt="Top Languages Used"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag-creator&theme=nord_dark" alt="Most Commit Language"/>
