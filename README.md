@@ -95,16 +95,6 @@
 
 
 
-<p align="center">
-  <a href="https://leetcode.com/u/Anurag321/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" />
-  </a>
-  <a href="https://x.com/anuragsingh2751?t=hhEINdOT2wushHH1Rf9eDQ&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-</p>
-
-
 ---
 
 Thanks for visiting my profile! 😊 If you're looking to collaborate on innovative projects or need a dedicated software developer, feel free to connect with me!
